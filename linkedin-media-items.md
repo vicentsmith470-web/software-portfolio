@@ -52,6 +52,16 @@ Description:
 Python debugging utility that scans application logs, counts severity levels, and reports repeated warning/error patterns. Built as a small practical automation tool for backend maintenance work.
 ```
 
+## Rule-Based File Organizer
+
+Link: https://github.com/vicentsmith470-web/software-portfolio/blob/main/case-studies/rule-based-file-organizer.md
+
+Description:
+
+```text
+Python automation utility that previews and applies file move/copy rules from JSON. Built for simple Windows-friendly file organization workflows with a safe dry-run mode before applying changes.
+```
+
 ## Software Portfolio Repository
 
 Link: https://github.com/vicentsmith470-web/software-portfolio
