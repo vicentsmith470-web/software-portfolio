@@ -34,7 +34,7 @@ Python reproducibility project that generates and verifies a 1,000,000-decimal P
 
 ## Freelance Proposal Tracker
 
-Link: REPLACE_AFTER_PUSH
+Link: https://github.com/vicentsmith470-web/software-portfolio/blob/main/case-studies/freelance-proposal-tracker.md
 
 Description:
 
@@ -44,7 +44,7 @@ Python CLI project for tracking freelance proposals in a JSON file. It can add p
 
 ## Application Log Error Summary
 
-Link: REPLACE_AFTER_PUSH
+Link: https://github.com/vicentsmith470-web/software-portfolio/blob/main/case-studies/log-error-summary.md
 
 Description:
 
@@ -54,7 +54,7 @@ Python debugging utility that scans application logs, counts severity levels, an
 
 ## Software Portfolio Repository
 
-Link: REPLACE_AFTER_PUSH
+Link: https://github.com/vicentsmith470-web/software-portfolio
 
 Description:
 
