@@ -19,6 +19,7 @@ Small, practical software work focused on API fixes, automation, testing, and te
 - [Freelance proposal tracker](case-studies/freelance-proposal-tracker.md)
 - [Application log error summary](case-studies/log-error-summary.md)
 - [Rule-based file organizer](case-studies/rule-based-file-organizer.md)
+- [RustChain wallet supply verification review](case-studies/rustchain-wallet-supply-verifier-review.md)
 
 ## Sample Tools
 
